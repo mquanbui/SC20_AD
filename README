@@ -1,0 +1,10 @@
+AD/AE number apdx335s1 for SC20 paper
+
+This repo includes:
+- Driver source file for using MGR
+- Example matrix, preconditioner, and rhs
+- Makefile to build the driver
+- A script that
+  + clone and build hypre v2.19.0
+  + build the driver for MGR solver
+  + run the driver for the example matrix, preconditioner, and rhs and output the solution
